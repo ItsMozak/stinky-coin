@@ -1,0 +1,9 @@
+.home {
+    background-image: url('/assets/green-background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+audio {
+    display: none;
+}
